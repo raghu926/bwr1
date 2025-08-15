@@ -1,0 +1,1 @@
+export default function Contact(){return <h1>Contact / Book a Call</h1>}
