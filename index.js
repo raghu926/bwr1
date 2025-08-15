@@ -1,1 +1,1 @@
-export default function Home(){return <h1>Welcome to BWR</h1>}
+export default function Services(){return <h1>Our Services</h1>}
